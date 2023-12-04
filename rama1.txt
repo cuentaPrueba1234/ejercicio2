@@ -1,3 +1,8 @@
 Todavia mas linea en rama1
+<<<<<<< HEAD
 Primera linea
 Segunda linea
+=======
+Mas lineas para rama1
+Unas pocas mas
+>>>>>>> mirama
